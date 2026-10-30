@@ -1,4 +1,4 @@
-package com.example.task_3
+package com.example.language_learning_app
 
 import io.flutter.embedding.android.FlutterActivity
 

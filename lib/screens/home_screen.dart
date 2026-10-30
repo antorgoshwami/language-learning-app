@@ -82,7 +82,7 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: const Color(0xFFF5F6FC),
       appBar: AppBar(
         title: const Text(
-          'LinguaLearn',
+          'Language Learning App',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         backgroundColor: const Color(0xFFF5F6FC),

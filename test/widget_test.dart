@@ -8,7 +8,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import 'package:task_3/main.dart';
+import 'package:language_learning_app/main.dart';
 
 void main() {
   testWidgets('app shows the learning home screen', (WidgetTester tester) async {
@@ -17,7 +17,7 @@ void main() {
     await tester.pumpWidget(const LinguaLearnApp());
     await tester.pumpAndSettle();
 
-    expect(find.text('LinguaLearn'), findsOneWidget);
+    expect(find.text('Language Learning App'), findsOneWidget);
     expect(find.text('Learning Categories'), findsOneWidget);
     expect(find.text('Daily Lessons'), findsOneWidget);
   });

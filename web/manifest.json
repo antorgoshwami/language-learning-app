@@ -1,11 +1,11 @@
 {
-    "name": "task_3",
-    "short_name": "task_3",
+    "name": "Language Learning App",
+    "short_name": "Language Learning App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Learn new words, phrases, and grammar with short interactive lessons.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
